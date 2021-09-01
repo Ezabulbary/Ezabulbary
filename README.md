@@ -1,7 +1,7 @@
 ![Github Banner](https://user-images.githubusercontent.com/73765777/131380754-474d4048-9039-40a5-8f7c-0b45166b36b4.png)
 # Hello there, my lovely companion.
 
-I'm Ezabul, a Bangladeshi front-end developer. I spend the majority of my time either coding or reading books.
+####I'm Ezabul Bary, a Bangladeshi front-end developer. I spend the majority of my time either coding or reading books.
 
 :coffee: &emsp;Connect with me!
 
