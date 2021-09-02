@@ -18,13 +18,12 @@
 ⚡ &emsp; Fun fact: I'm a programmer with a background in the arts. </br>
 
 ## 👨‍💻 Skills & Experiance: 
-✅ WordPress <br> 
-✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
+✅ JavaScript <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Photoshop / Illustrator / Xd <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezabulbary&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/Ezabulbary)
 
