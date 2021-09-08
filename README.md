@@ -25,5 +25,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezabulbary&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Ezabulbary)
+<p align="Left"> <img src="https://komarev.com/ghpvc/?username=Ezabulbary&style=plastic&color=orange&label=PROFILE+VIEWS" alt="Ezabulbary"  /> </p>
 
