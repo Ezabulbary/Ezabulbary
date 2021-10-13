@@ -14,7 +14,7 @@
 :computer: &emsp; Most used line of code console.log("hello world") </br>
 🤔 &emsp; I'm seeking anyone who can assist me by sharing their programming skills with me. </br>
 :e-mail: &emsp; How to reach me: ezabul.bary@gmail.com </br>
-💬 &emsp; Ask me about Web Designer. </br>
+💬 &emsp; Ask me about programing. </br>
 ⚡ &emsp; Fun fact: I'm a programmer with a background in the arts. </br>
 
 ## 👨‍💻 Skills & Experiance: 
