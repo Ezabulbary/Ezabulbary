@@ -10,11 +10,11 @@
 🔭 &emsp; I’m currently working as a freelancer.  </br>
 :hearts: &emsp; I enjoy programming and sharing knowledge. </br>
 🌱 &emsp; I’m currently learning JavaScript. </br>
-👯 &emsp; I’m looking to collaborate as a Web Dsigner. </br>
+👯 &emsp; I’m looking to collaborate as a Web Designer. </br>
 :computer: &emsp; Most used line of code console.log("hello world") </br>
-🤔 &emsp; I'm seeking for anyone who can assist me by sharing their programming skills with me. </br>
+🤔 &emsp; I'm seeking anyone who can assist me by sharing their programming skills with me. </br>
 :e-mail: &emsp; How to reach me: ezabul.bary@gmail.com </br>
-💬 &emsp; Ask me about: Web Dsigner. </br>
+💬 &emsp; Ask me about Web Designer. </br>
 ⚡ &emsp; Fun fact: I'm a programmer with a background in the arts. </br>
 
 ## 👨‍💻 Skills & Experiance: 
