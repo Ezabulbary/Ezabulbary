@@ -19,7 +19,7 @@
 ## 👨‍💻 Skills & Experiance: 
 
 ✅ JavaScript <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ HTML5 / CSS3 / Tailwind / Bootstrap <br>
 ✅ Photoshop / Illustrator / Xd <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezabulbary&layout=compact)
