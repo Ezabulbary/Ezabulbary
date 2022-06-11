@@ -9,11 +9,11 @@
 
 🔭 &emsp; I’m currently working as a freelancer.  </br>
 :hearts: &emsp; I enjoy programming and sharing knowledge. </br>
-🌱 &emsp; I’m currently learning Node.js. </br>
-👯 &emsp; I’m looking to collaborate as a Web Designer. </br>
+🌱 &emsp; I’m currently learning React. </br>
+👯 &emsp; I’m looking to collaborate as a MERN Stack Developer. </br>
 🤔 &emsp; I'm seeking anyone who can assist me by sharing their programming skills with me. </br>
 :e-mail: &emsp; How to reach me: ezabul.bary@gmail.com </br>
-💬 &emsp; Ask me about what you want. </br>
+💬 &emsp; Ask me about MERN Stack Developement. </br>
 ⚡ &emsp; Fun fact: I'm a programmer with a background in the arts. </br>
 
 ## 👨‍💻 Skills & Experiance: 
