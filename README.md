@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Skills & Experiance: 
 
-✅ JavaScript <br>
+✅ JavaScript / ES-6 / React / MongoDB / Express.js / Node.js  <br>
 ✅ HTML5 / CSS3 / Tailwind / Bootstrap <br>
 ✅ Photoshop / Illustrator / Xd <br>
 
