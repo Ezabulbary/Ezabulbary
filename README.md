@@ -11,7 +11,7 @@
 :hearts: &emsp; I enjoy programming and sharing knowledge. </br>
 🌱 &emsp; I’m currently learning Artificial Intelligence. </br>
 👯 &emsp; I’m looking to collaborate as a MERN Stack Developer. </br>
-🤔 I'm seeking someone who can assist me by sharing their programming skills. </br>
+🤔 &emsp; I'm seeking someone who can assist me by sharing their programming skills. </br>
 :e-mail: &emsp; How to reach me: ezabul.bary@gmail.com </br>
 💬 &emsp; Ask me about MERN Stack Development. </br>
 ⚡ &emsp; Fun fact: I'm a programmer with a background in the arts. </br>
